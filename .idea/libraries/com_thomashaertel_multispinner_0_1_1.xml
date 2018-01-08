@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.thomashaertel:multispinner-0.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/multispinner-0.1.1.aar/2eb8a282fe95f0d6d76ff4c9b443d4fa/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/multispinner-0.1.1.aar/2eb8a282fe95f0d6d76ff4c9b443d4fa/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.thomashaertel/multispinner/0.1.1/2457c186ddcf00e68ce53d9bd65eadadb1282a9b/multispinner-0.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

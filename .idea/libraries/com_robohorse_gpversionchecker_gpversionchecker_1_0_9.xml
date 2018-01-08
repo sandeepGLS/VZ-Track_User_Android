@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.robohorse.gpversionchecker:gpversionchecker-1.0.9">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gpversionchecker-1.0.9.aar/37b870e67d59a1baeb863f88aa306ee6/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/gpversionchecker-1.0.9.aar/37b870e67d59a1baeb863f88aa306ee6/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.robohorse.gpversionchecker/gpversionchecker/1.0.9/8816f7ea6725608d83b6b35ba15a6e1d83c0a0e/gpversionchecker-1.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

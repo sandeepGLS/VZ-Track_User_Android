@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.javon.viewmanager:viewmanager-1.0.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewmanager-1.0.3.aar/86d1b6deb67fd4816b36ec7cff3cefa7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/viewmanager-1.0.3.aar/86d1b6deb67fd4816b36ec7cff3cefa7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.javon.viewmanager/viewmanager/1.0.3/bbae5f1e479224c48df8a5abe0983241c468d526/viewmanager-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

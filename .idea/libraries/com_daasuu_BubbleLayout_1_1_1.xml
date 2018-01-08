@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.daasuu:BubbleLayout-1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/BubbleLayout-1.1.1.aar/ec5da69818fa13df13ac8510a1cab07d/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/BubbleLayout-1.1.1.aar/ec5da69818fa13df13ac8510a1cab07d/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.daasuu/BubbleLayout/1.1.1/d89a45adf569d89ccc19961e41e29a23b55747d1/BubbleLayout-1.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
